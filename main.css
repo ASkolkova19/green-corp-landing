@@ -146,7 +146,8 @@ footer{
 }
 .footer__container{
   display:flex;
-  text-align: center;
+  flex-direction: center;
+  justify-content: center;
 }
 .footer__copyright{
   text-align: center;
